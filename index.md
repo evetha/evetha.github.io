@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
     <head>
-        <!-- head definitions go here -->
+        <b>Welcome!</b>>
     </head>
     <body>
         <i> Hi </i>
