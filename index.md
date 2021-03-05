@@ -1,8 +1,10 @@
 <html>
     <head>
-        <b>Welcome!</b>>
+        <p>
+            <b>Website creation in progress!</b>
+        </p>
     </head>
     <body>
-        <i> Hi </i>
+        <p>Visit again later!</p>
     </body>
 </html>
